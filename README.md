@@ -2,7 +2,7 @@
 
 - 🏫I'm a software engineering student
 - 👩‍💻I’m currently learning Cyber Security and Java
-- 📫 How to reach me: feyzanurdandal@gmail.com
+- 📫How to reach me: feyzanurdandal@gmail.com
 
 <!--
 **feyzanurdandal/feyzanurdandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
